@@ -19,42 +19,41 @@ redirect_from:
 
 Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I graduated from the School of Mechanical and Electronic Information, China University of Geosciences with a bachelor’s degree, and I am currently a third-year Master’s student  from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. Bobo Xi.
 
-My master’s research primarily focused on Hyperspectral Image Open-Set Recognition (HSI-OSR). Currently, I am extending my work to Multimodal Large Language Models (MLLMs) and Reinforcement Learning.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My master’s research primarily focused on Hyperspectral Image Open-Set Recognition (HSI-OSR). Currently, I am extending my work to Multimodal Large Language Models (MLLMs) and Reinforcement Learning. You can find my Google Scholar profile here: <a href='https://scholar.google.com/citations?user=bKcPnFQAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2026.
+- *2025.10*: &nbsp;🎉🎉 One paper was accepted by IEEE TIP.
+- *2025.03*: &nbsp;🎉🎉 One paper was accepted by IEEE TIP.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/SMAP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhang Wenjie\***, Yang Chen\*, Lu Xin, Wang Zhen, Liu Yue, Xi Bobo, Zhang Pengbo. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. **HTML**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- <small>\* Equal contribution / 共同第一作者</small> -->
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bKcPnFQAAAAJ) <strong><span class='show_paper_citations' data='bKcPnFQAAAAJ'></span></strong> -->
+- Proposes SMAP, the first multimodal framework for semantic route planning that integrates user queries, POI metadata, and map tiles to generate spatially coherent itineraries while significantly reducing geographical hallucinations through a novel self-editing and preference optimization pipeline. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/11247869). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 7642-7655. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperCASR)
+
+- [HyperTaFOR: Task-adaptive few-shot open-set recognition with spatial-spectral selective transformer for hyperspectral imagery](https://ieeexplore.ieee.org/document/11071942). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 4148-4160. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperTaFOR)
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* 2025 National Scholarship, Ministry of Education, China. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2026.06*, Master of Electronic Information, Hangzhou Institute for Technology, Xidian University, Xi'an, China.
+- *2019.09 - 2023.06*, Bachelor of Communications Engineering, School of Mechanical and Electronic Information, China University of Geosciences, Wuhan, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.06 - 2025.09*, Amap, Alibaba, Beijing, China.
