@@ -1,5 +1,5 @@
 ---
-permalink: /smap/
+permalink: /SMAP/
 title: "SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment"
 layout: default
 author_profile: false
