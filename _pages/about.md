@@ -34,7 +34,7 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 
 [SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment](/SMAP/). 
 
-**Zhang Wenjie\***, Yang Chen\*, Lu Xin, Wang Zhen, Liu Yue, Xi Bobo, Zhang Pengbo. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+**Wenjie Zhang\***, Chen Yang\*, Xin Lu, Zhen Wang, Yue Liu, Bobo Xi, Pengbo Zhang. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 
 <!-- <small>\* Equal contribution / 共同第一作者</small> -->
 
@@ -43,9 +43,9 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 </div>
 </div>
 
-- [HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/11247869). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 7642-7655. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperCASR_Code/)
+- [HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/11247869). Bobo Xi, **Wenjie Zhang**, Jiaojiao Li, Rui Song, Yunsong Li. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 7642-7655. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperCASR_Code/)
 
-- [HyperTaFOR: Task-adaptive few-shot open-set recognition with spatial-spectral selective transformer for hyperspectral imagery](https://ieeexplore.ieee.org/document/11071942). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 4148-4160. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperTaFOR_Code/)
+- [HyperTaFOR: Task-adaptive few-shot open-set recognition with spatial-spectral selective transformer for hyperspectral imagery](https://ieeexplore.ieee.org/document/11071942). Bobo Xi, **Wenjie Zhang**, Jiaojiao Li, Rui Song, Yunsong Li. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 4148-4160. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperTaFOR_Code/)
 
 
 # 🎖 Honors and Awards
