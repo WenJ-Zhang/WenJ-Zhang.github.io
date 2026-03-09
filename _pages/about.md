@@ -32,7 +32,7 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/SMAP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment](/SMAP/). 
+[SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment](https://amap-mobility-intelligence.github.io/SMAP/). 
 
 **Wenjie Zhang\***, Chen Yang\*, Xin Lu, Zhen Wang, Yue Liu, Bobo Xi, Pengbo Zhang. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 
