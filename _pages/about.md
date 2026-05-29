@@ -39,7 +39,6 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 <!-- <small>\* Equal contribution / 共同第一作者</small> -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bKcPnFQAAAAJ) <strong><span class='show_paper_citations' data='bKcPnFQAAAAJ'></span></strong> -->
-- [**Paper**](https://cvpr.thecvf.com/virtual/2026/poster/39788)  [**Code**](https://github.com/amap-mobility-intelligence/CVPR_2026_SMAP_Code)
 - SMAP is the first multimodal framework for semantic route planning that reduces geographical hallucinations via a novel self-editing pipeline. 
 </div>
 </div>
