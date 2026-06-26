@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I graduated from the School of Mechanical and Electronic Information, China University of Geosciences with a bachelor’s degree, and I am currently a third-year Master’s student  from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
+Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I received my Bachelor's degree from the School of Mechanical and Electronic Information, China University of Geosciences, and my Master's degree from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io). I am currently working as a 大模型算法工程师 at Amap, Alibaba, Beijing.
 
 My master’s research primarily focused on Hyperspectral Image Open-Set Recognition (HSI-OSR). Currently, I am extending my work to Multimodal Large Language Models (MLLMs) and Reinforcement Learning. You can find my Google Scholar profile here: <a href='https://scholar.google.com/citations?user=bKcPnFQAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -51,9 +51,7 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 # 🎖 Honors and Awards
 - *2025.10* 2025 National Scholarship, Ministry of Education, China. 
 
-# 📖 Educations
+# 💼 Experience
+- *2025.06 - Present*, LLM Algorithm Engineer, Amap, Alibaba, Beijing, China.
 - *2023.09 - 2026.06*, Master of Electronic Information, Hangzhou Institute for Technology, Xidian University, Xi'an, China.
-- *2019.09 - 2023.06*, Bachelor of Communications Engineering, School of Mechanical and Electronic Information, China University of Geosciences, Wuhan, China. 
-
-# 💻 Internships
-- *2025.06 - 2025.09*, Amap, Alibaba, Beijing, China.
+- *2019.09 - 2023.06*, Bachelor of Communications Engineering, School of Mechanical and Electronic Information, China University of Geosciences, Wuhan, China.

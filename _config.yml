@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenjie Zhang（张文捷）"
   avatar           : "images/picture.jpg"
-  bio              : "Xidian University"
-  location         : "Hangzhou, China"
-  employer         :
+  bio              : "LLM Algorithm Engineer @ Amap"
+  location         : "Beijing, China"
+  employer         : "Amap, Alibaba"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bKcPnFQAAAAJ&hl=zh-CN"
   email            : "wenjiez@stu.xidian.edu.cn"
