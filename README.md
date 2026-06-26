@@ -41,7 +41,7 @@
 
 ### <img src="https://img.shields.io/badge/CVPR%202026-%23FF6F00.svg?style=flat&logo=ieee&logoColor=white" /> SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment
 > **Wenjie Zhang\***, Chen Yang\*, Xin Lu, Zhen Wang, Yue Liu, Bobo Xi, Pengbo Zhang  
-> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+> The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 > 
 > [📄 Paper](https://cvpr.thecvf.com/virtual/2026/poster/39788) · [💻 Code](https://github.com/amap-mobility-intelligence/CVPR_2026_SMAP_Code)
 
