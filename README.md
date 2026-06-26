@@ -67,11 +67,8 @@
 ## 💼 Experience
 
 - **2025.06 – Present** &nbsp;🤖 **LLM Algorithm Engineer**, **Amap, Alibaba** — Beijing, China
-
-| Period | Institution | Degree |
-|--------|------------|--------|
-| 2023.09 – 2026.06 | Hangzhou Institute for Technology, **Xidian University** | M.E. in Electronic Information |
-| 2019.09 – 2023.06 | School of Mechanical and Electronic Information, **China University of Geosciences** | B.E. in Communications Engineering |
+- **2023.09 – 2026.06** &nbsp;🎓 M.E. in Electronic Information, **Xidian University**
+- **2019.09 – 2023.06** &nbsp;🎓 B.E. in Communications Engineering, **China University of Geosciences**
 
 ---
 
