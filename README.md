@@ -22,8 +22,8 @@
 
 ## 📌 About Me
 
-- 🎓 I received my B.E. from **China University of Geosciences** and M.E. from **Xidian University**, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
 - 🤖 I am currently working as an **LLM Algorithm Engineer** at **Amap, Alibaba** in Beijing.
+- 🎓 I received my B.E. from **China University of Geosciences** and M.E. from **Xidian University**, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
 - 🌌 My master's research focused on **Hyperspectral Image Open-Set Recognition (HSI-OSR)**.
 - 🤖 Currently, I am extending my work to **Multimodal Large Language Models (MLLMs)** and **Reinforcement Learning**.
 
@@ -43,7 +43,7 @@
 > **Wenjie Zhang\***, Chen Yang\*, Xin Lu, Zhen Wang, Yue Liu, Bobo Xi, Pengbo Zhang  
 > Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026: 40108-40118.
 > 
-> [📄 Paper](https://cvpr.thecvf.com/virtual/2026/poster/39788) · [💻 Code](https://github.com/amap-mobility-intelligence/CVPR_2026_SMAP_Code)
+> [📄 Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SMAP_Semantic_Route_Planning_with_Map-Grounded_Multimodal_Alignment_CVPR_2026_paper.pdf) · [💻 Code](https://github.com/amap-mobility-intelligence/CVPR_2026_SMAP_Code)
 
 
 ### <img src="https://img.shields.io/badge/IEEE%20TIP%202025-%23007B86.svg?style=flat&logo=ieee&logoColor=white" /> HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery

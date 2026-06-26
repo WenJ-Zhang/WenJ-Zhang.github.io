@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I received my Bachelor's degree from the School of Mechanical and Electronic Information, China University of Geosciences, and my Master's degree from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io). I am currently working as a LLM Algorithm Engineer at Amap, Alibaba, Beijing.
+Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I am currently working as a LLM Algorithm Engineer at Amap, Alibaba, Beijing. I received my Bachelor's degree from the School of Mechanical and Electronic Information, China University of Geosciences, and my Master's degree from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
 
 My master’s research primarily focused on Hyperspectral Image Open-Set Recognition (HSI-OSR). Currently, I am extending my work to Multimodal Large Language Models (MLLMs) and Reinforcement Learning. You can find my Google Scholar profile here: <a href='https://scholar.google.com/citations?user=bKcPnFQAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
