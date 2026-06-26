@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=bKcPnFQAAAAJ&hl=zh-CN">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="mailto:wenjiez@stu.xidian.edu.cn">
+  <a href="mailto:909447523@qq.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
