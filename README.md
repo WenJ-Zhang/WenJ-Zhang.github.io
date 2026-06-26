@@ -24,7 +24,8 @@
 
 - 🎓 I received my B.E. from **China University of Geosciences** and M.E. from **Xidian University**, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
 - 🤖 I am currently working as an **LLM Algorithm Engineer** at **Amap, Alibaba** in Beijing.
-- 🌌 My research interests include **Hyperspectral Image Open-Set Recognition (HSI-OSR)**, **Multimodal Large Language Models (MLLMs)**, and **Reinforcement Learning**.
+- 🌌 My master's research focused on **Hyperspectral Image Open-Set Recognition (HSI-OSR)**.
+- 🤖 Currently, I am extending my work to **Multimodal Large Language Models (MLLMs)** and **Reinforcement Learning**.
 
 ---
 
