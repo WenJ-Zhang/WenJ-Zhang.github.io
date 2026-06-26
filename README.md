@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🎓 Master's Student @ Xidian University · 🏙️ Hangzhou, China
+  🤖 LLM Algorithm Engineer @ Amap, Alibaba · 🏙️ Beijing, China
 </h3>
 
 <p align="center">
@@ -22,11 +22,9 @@
 
 ## 📌 About Me
 
-- 🎓 I graduated from the **School of Mechanical and Electronic Information, China University of Geosciences** with a bachelor's degree.
-- 🔬 I am currently a **third-year Master's student** at the **Hangzhou Institute for Technology, Xidian University**, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
-- 🌌 My master's research focuses on **Hyperspectral Image Open-Set Recognition (HSI-OSR)**.
-- 🤖 Currently, I am extending my work to **Multimodal Large Language Models (MLLMs)** and **Reinforcement Learning**.
-- 🏢 I interned at **Amap (Alibaba)** in Beijing (2025).
+- 🎓 I received my B.E. from **China University of Geosciences** and M.E. from **Xidian University**, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
+- 🤖 I am currently working as an **LLM Algorithm Engineer** at **Amap, Alibaba** in Beijing.
+- 🌌 My research interests include **Hyperspectral Image Open-Set Recognition (HSI-OSR)**, **Multimodal Large Language Models (MLLMs)**, and **Reinforcement Learning**.
 
 ---
 
@@ -65,18 +63,14 @@
 
 ---
 
-## 📖 Education
+## 💼 Experience
+
+- **2025.06 – Present** &nbsp;🤖 **LLM Algorithm Engineer**, **Amap, Alibaba** — Beijing, China
 
 | Period | Institution | Degree |
 |--------|------------|--------|
 | 2023.09 – 2026.06 | Hangzhou Institute for Technology, **Xidian University** | M.E. in Electronic Information |
 | 2019.09 – 2023.06 | School of Mechanical and Electronic Information, **China University of Geosciences** | B.E. in Communications Engineering |
-
----
-
-## 💻 Internship Experience
-
-- **2025.06 – 2025.09** &nbsp;📍 **Amap, Alibaba** — Beijing, China
 
 ---
 
