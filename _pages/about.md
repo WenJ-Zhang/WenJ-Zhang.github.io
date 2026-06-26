@@ -34,7 +34,7 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 
 [SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment](https://amap-mobility-intelligence.github.io/SMAP/). 
 
-**Wenjie Zhang\***, Chen Yang\*, Xin Lu, Zhen Wang, Yue Liu, Bobo Xi, Pengbo Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition（CVPR）. 2026: 40108-40118.
+**Wenjie Zhang\***, Chen Yang\*, Xin Lu, Zhen Wang, Yue Liu, Bobo Xi, Pengbo Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026: 40108-40118.
 
 <!-- <small>\* Equal contribution / 共同第一作者</small> -->
 
